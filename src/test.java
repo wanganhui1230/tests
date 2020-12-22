@@ -1,6 +1,6 @@
 public class Holl
 {
     public String add(){
-        System.out.println("aaaaaa");
+        System.out.println("aaaaaa1");
     }
 }
